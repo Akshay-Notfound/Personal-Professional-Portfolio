@@ -25,6 +25,14 @@
 
 <img src="assets/laser-divider.svg" width="100%" height="16" alt="Laser Divider" />
 
+### 🏆 Verified Engineering Trophies & Recognition
+
+<div align="center">
+  <img src="assets/verified-trophies.svg" width="100%" alt="Akshay's Verified Engineering Trophies" />
+</div>
+
+<img src="assets/laser-divider.svg" width="100%" height="16" alt="Laser Divider" />
+
 ### 🌟 System Overview
 
 **Personal Professional Portfolio** is an architectural template designed to serve as the definitive digital identity for software engineers, data scientists, and analytics professionals. It structures projects, enterprise BI dashboards, real-time data metrics, and verified credentials into an interactive, visually stunning cyber showcase.
