@@ -13,6 +13,7 @@
   <!-- TECH BADGES -->
   <p align="center">
     <img src="https://img.shields.io/badge/Portfolio-Developer%20Identity-black?style=for-the-badge" />
+    <a href="https://akshay-notfound.vercel.app#coder-arcade" target="_blank"><img src="https://img.shields.io/badge/🎮%20CODER%20ARCADE-Play%20Online-ff007f?style=for-the-badge" alt="Play Coder Arcade Game" /></a>
     <img src="https://img.shields.io/badge/Data%20Analytics-Enterprise%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     <img src="https://img.shields.io/badge/BigData-PySpark%20%26%20BigQuery-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
     <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
